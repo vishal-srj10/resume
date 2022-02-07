@@ -1,0 +1,45 @@
+.div_1{
+    text-align: start;
+}
+.div_2{
+    text-align: start;
+    margin-left: 20px;
+}
+.div_3{
+    text-align: start;
+    margin-left: 20px;
+}
+
+.icons{
+display: flex;
+justify-content: space-between;
+font-size: 50px;
+}
+
+li:hover {
+transform: scale(1.1);
+color: blue;
+}
+.cl_1:hover {
+transform: scale(1.07);
+color: darkred;
+
+}
+
+h5:hover {
+transform: scale(1.05);
+color: rgb(27, 85, 172);
+}
+i:hover {
+transform: scale(1.1);
+color:  white;
+}
+img:hover {
+transform: scale(0.9);
+}
+ #id01{
+    background-color: rgba(2, 35, 78, 0.856);
+    }
+  #id02{
+    background-color: rgb(235, 240, 212);
+    }
